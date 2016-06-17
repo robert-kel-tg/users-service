@@ -1,0 +1,15 @@
+{
+    "name": "robertas/user-service",
+    "description": "Small user service",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Robert Kel",
+            "email": "kel.robert@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "silex/silex": "~2.0"
+    }
+}
