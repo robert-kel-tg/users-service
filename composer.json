@@ -11,5 +11,10 @@
     "minimum-stability": "stable",
     "require": {
         "silex/silex": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Robertke\\User\\": "src/"
+        }
     }
 }
