@@ -1,6 +1,6 @@
 <?php
 
-namespace Robertke\User;
+namespace Robertke\User\Application\Controller;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
