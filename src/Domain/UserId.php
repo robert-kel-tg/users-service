@@ -2,7 +2,7 @@
 
 namespace Robertke\User\Domain;
 
-
+//Aaaaaa
 final class UserId
 {
     private $value;
